@@ -28,7 +28,7 @@ class InputLogin extends StatelessWidget {
           fillColor: Colors.white,
           hintText: hint,
           hintStyle: TextStyle(
-            color: Color.fromARGB(255, 231, 231, 231),
+            color: Color.fromARGB(255, 221, 221, 221),
           ),
         ),
       ),
