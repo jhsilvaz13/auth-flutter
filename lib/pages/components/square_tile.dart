@@ -9,7 +9,8 @@ class SquareTile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      margin: const EdgeInsets.symmetric(horizontal: 22),
+      margin: const EdgeInsets.symmetric(horizontal: 20),
+      padding: EdgeInsets.all(10),
       height: 50,
       width: 50,
       decoration: BoxDecoration(
